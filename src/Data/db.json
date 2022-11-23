@@ -1,0 +1,235 @@
+{
+    "onebhk":[{
+        "id":"O1",
+        "key":"O01",
+        "name":"Arihanth Leizure",
+        "address":"Thalambur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"30 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-house-building-city-construction-concept-evening-outdoor-urban-view-homes-42224671.jpg"
+    },
+    {
+        "id":"O2",
+        "key":"O02",
+        "name":"Detroit Leizure",
+        "address":"Navalur, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"19.5 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-creative-abstract-house-building-city-construction-concept-evening-outdoor-urban-view-homes-46298146.jpg"
+    },{
+        "id":"O3",
+        "key":"O03",
+        "name":"Kailasa Heaven",
+        "address":"T-Nagar, Kailasam",
+        "club":"No",
+        "pin":600158,
+        "price":"23.5 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/apartment-modern-houses-homes-residential-buildings-real-estate-outdoor-evening-complex-concept-street-141978792.jpg"
+    },{
+        "id":"O4",
+        "key":"O04",
+        "name":"Radiance Soceity",
+        "address":"Anna Nagar, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"35.99 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-house-building-city-construction-concept-evening-outdoor-urban-view-homes-40083842.jpg"
+    },{
+        "id":"O5",
+        "key":"O05",
+        "name":"Appasamy Apartments ",
+        "address":"Porur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"30.99 Lakhs",
+        "img":"https://media.istockphoto.com/id/1165384568/photo/europe-modern-complex-of-residential-buildings.jpg?s=612x612&w=0&k=20&c=iW4NBiMPKEuvaA7h8wIsPHikhS64eR-5EVPfjQ9GPOA="
+    },{
+        "id":"O6",
+        "key":"O06",
+        "name":"Thala Thalapathy  Homes",
+        "address":"Kelambakkam, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"20.99 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-house-building-city-construction-concept-evening-outdoor-urban-view-homes-83751219.jpg"
+    }],
+    "villa":[{
+        "id":"O1",
+        "key":"V01",
+        "name":"Arihanth Beeches",
+        "address":"Thalambur, Chennai",
+        "club":"Yes",
+        "pin":600125,
+        "price":"1 crore",
+        "img":"https://wallpaperaccess.com/full/4722343.jpg"
+    },
+    {
+        "id":"O2",
+        "key":"V02",
+        "name":"Clare Clarence",
+        "address":"Navalur, Chennai",
+        "club":"Yes",
+        "pin":600199,
+        "price":"1.2 crore",
+        "img":"https://images.alphacoders.com/435/435117.jpg"
+    },{
+        "id":"O3",
+        "key":"V03",
+        "name":"Kailasa Heaven",
+        "address":"T-Nagar, Kailasam",
+        "club":"Yes",
+        "pin":600175,
+        "price":"1.8 crore",
+        "img":"https://wallpaperaccess.com/full/2492037.jpg"
+    },{
+        "id":"O4",
+        "key":"V04",
+        "name":"Radiance Fairview",
+        "address":"Anna Nagar, Chennai",
+        "club":"Yes",
+        "pin":600166,
+        "price":"2 crore",
+        "img":"http://1.bp.blogspot.com/-InnOKdad_08/VMCMFW5b_qI/AAAAAAAAAm8/oWnYaW6xCKM/s1600/wallpaper-american-dream-home.jpg"
+    },{
+        "id":"O5",
+        "key":"V05",
+        "name":"Lilac Cottage ",
+        "address":"Porur, Chennai",
+        "club":"Yes",
+        "pin":600258,
+        "price":"1.85 crore",
+        "img":"https://media.istockphoto.com/id/1187439428/photo/exterior-view-of-multifamily-residential-building-mountain-view-san-francisco-bay-area.jpg?s=612x612&w=0&k=20&c=w4TS2sZySgrsnenErGorhW9xiB_mZWvonfI-4hMDz4c="
+    },{
+        "id":"O6",
+        "key":"V06",
+        "name":"Meadow View",
+        "address":"Kelambakkam, Chennai",
+        "club":"Yes",
+        "pin":600191,
+        "price":"1.99 crore",
+        "img":"https://media.istockphoto.com/id/1151903312/photo/brownstone-facades-row-houses-in-an-iconic-neighborhood-of-brooklyn-heights-in-new-york-city.jpg?s=612x612&w=0&k=20&c=_nw1CPPZ3nbn9COeUx7UfMLDHmDbebVyOQbBUXAHacQ="
+    }],
+    "twobhk":[{
+        "id":"O1",
+        "key":"T01",
+        "name":"Arihanth Leizure",
+        "address":"Thalambur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"46 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-house-building-city-construction-concept-evening-outdoor-urban-view-homes-42224671.jpg"
+    },
+    {
+        "id":"O2",
+        "key":"T02",
+        "name":"Detroit Leizure",
+        "address":"Navalur, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"40.5 Lakhs",
+        "img":"https://media.istockphoto.com/id/542713258/photo/modern-apartment-houses.jpg?s=612x612&w=0&k=20&c=gZHNJ2KiBQFTENEk4Wq7PXpghXceAMHqe_gQSDNgTdA="
+    },{
+        "id":"O3",
+        "key":"T03",
+        "name":"Kailasa Heaven",
+        "address":"T-Nagar, Kailasam",
+        "club":"No",
+        "pin":600158,
+        "price":"51.5 Lakhs",
+        "img":"https://media.istockphoto.com/id/645199404/photo/apartment-buildings.jpg?s=612x612&w=0&k=20&c=_PcytWkxDtfrx-OxjSi4ZPj08Hm_NpxJrOq9DHp0JRg="
+    },{
+        "id":"O4",
+        "key":"T04",
+        "name":"Radiance Soceity",
+        "address":"Anna Nagar, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"49.99 Lakhs",
+        "img":"https://media.istockphoto.com/id/1047924048/photo/modern-residential-buildings.jpg?s=612x612&w=0&k=20&c=T1C6vdaxQ304eaHKDBSIEb975ZbAMC8DieaM3yeqsGs="
+    },{
+        "id":"O5",
+        "key":"T05",
+        "name":"Appasamy Apartments ",
+        "address":"Porur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"55.99 Lakhs",
+        "img":"https://media.istockphoto.com/id/1165384568/photo/europe-modern-complex-of-residential-buildings.jpg?s=612x612&w=0&k=20&c=iW4NBiMPKEuvaA7h8wIsPHikhS64eR-5EVPfjQ9GPOA="
+    },{
+        "id":"O6",
+        "key":"T06",
+        "name":"Thala Thalapathy  Homes",
+        "address":"Kelambakkam, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"39.99 Lakhs",
+        "img":"https://thumbs.dreamstime.com/b/modern-real-estate-house-building-city-construction-concept-evening-outdoor-urban-view-homes-83751219.jpg"
+    }],
+    "threebhk":[{
+        "id":"O1",
+        "key":"H01",
+        "name":"Arihanth Leizure",
+        "address":"Thalambur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"79 Lakhs",
+        "img":"https://images.unsplash.com/photo-1580041065738-e72023775cdc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id":"O2",
+        "key":"H02",
+        "name":"Detroit Leizure",
+        "address":"Navalur, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"69.5 Lakhs",
+        "img":"https://images.unsplash.com/photo-1433849665221-d2f93042ae54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60  "
+    },{
+        "id":"O3",
+        "key":"H03",
+        "name":"Kailasa Heaven",
+        "address":"T-Nagar, Kailasam",
+        "club":"No",
+        "pin":600158,
+        "price":"75.87 Lakhs",
+        "img":"https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },{
+        "id":"O4",
+        "key":"H04",
+        "name":"Radiance Soceity",
+        "address":"Anna Nagar, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"82.99 Lakhs",
+        "img":"https://images.unsplash.com/photo-1558778909-1d4ea850da7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },{
+        "id":"O5",
+        "key":"H05",
+        "name":"Appasamy Apartments ",
+        "address":"Porur, Chennai",
+        "club":"Yes",
+        "pin":600158,
+        "price":"81.99 Lakhs",
+        "img":"https://images.unsplash.com/photo-1574362848149-11496d93a7c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGFwYXJ0bWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+    },{
+        "id":"O6",
+        "key":"H06",
+        "name":"Thala Thalapathy  Homes",
+        "address":"Kelambakkam, Chennai",
+        "club":"No",
+        "pin":600158,
+        "price":"78.99 Lakhs",
+        "img":"https://images.unsplash.com/photo-1515263487990-61b07816b324?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }],
+    "users":[{
+        "id":"U1",
+        "email":"harish7@gmail.com",
+        "user_name":"Harish M"
+    },{
+        "id":"U2",
+        "email":"hari7@gmail.com",
+        "user_name":"Hari M"
+    }]
+}
